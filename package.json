@@ -18,7 +18,7 @@
     "mongo-watcher",
     "monitor"
   ],
-  "author": "M.Mahrous <m.mahrous.94@gmail.com>",
+  "author": "M.Mahrous <m.mahrous@thed.io>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/thedgmbh/mongo-monit/issues"
