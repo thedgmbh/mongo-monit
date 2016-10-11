@@ -1,0 +1,27 @@
+{
+  "name": "mongo-monit",
+  "version": "0.1.0",
+  "description": "MongoDB monitor for changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedgmbh/mongo-monit.git"
+  },
+  "keywords": [
+    "mongodb",
+    "mongo",
+    "watcher",
+    "mongo-watch",
+    "mongo-watcher",
+    "monitor"
+  ],
+  "author": "M.Mahrous <m.mahrous.94@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thedgmbh/mongo-monit/issues"
+  },
+  "homepage": "https://github.com/thedgmbh/mongo-monit#readme"
+}
