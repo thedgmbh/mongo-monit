@@ -49,5 +49,5 @@ new Monit(options);
 Licensed under MIT
 
 #### Author
-M. Mahrous
-Feel free to contact me [M. Mahrous](mailto:m.mahrous@thed.io) and improve the code.
+The D. GmbH - M. Mahrous
+Feel free to contact us [M. Mahrous](mailto:m.mahrous@thed.io) and improve the code.
